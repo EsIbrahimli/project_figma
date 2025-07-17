@@ -1,0 +1,32 @@
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+}
+
+.btn {
+    border: none;
+    background-color: #4CAF4F;
+    color: #FFFFFF;
+    font-weight: 500;
+    transition: transform 0.5s;
+}
+
+.btn:hover {
+    transform: scale(1.2);
+}
+
+.btn-link {
+    color: #FFFFFF;
+}
+
+.desc {
+    font-size: 16px;
+    font-weight: 400;
+    color: #717171;
+}
+
+.title {
+    color: #18191F;
+    font-size: 36px;
+    font-weight: 600;
+}
